@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AndDan-stack/myCIS277finalapp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### CIS-277 Final App:UPS Small Sort Simulator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Discription**
 
-### Markdown
+The UPS Small Sort Simulator recreates an automated Small Package sorting system used in many UPS Hubs. Small Packages are usually less then 10lb. and are not longer then 12",wider then 12" and higher then 6".   At a UPS HUB smalls are sent onto a system  of convayor belt. When the small packages or "smalls" reach the automated sorting system main belt, they will be sorted into chutes 4,3,2 and 1. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Smalls roll on to a main belt in variying numbers(a group of 2 smalls, followed by a group of 7 smalls, ect...). The app will ask the user for a number of packages.
 
-```markdown
-Syntax highlighted code block
+The screen will output what chute is being sorted,and the amount of packages in each chute.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndDan-stack/myCIS277finalapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
